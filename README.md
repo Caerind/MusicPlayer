@@ -25,11 +25,18 @@ Warning :
 Usage :
 -------
 
+Add a song in your song list :
+
+- sudo musicplayer add yourfilename
+
+
+Add all .ogg & .wav files in a folder to your song list :
+
+-sudo musicplayer add folder yourfoldername
+
 
 Play a random song in your song list :
 
-- sudo musicplayer add yourfilename1
-- sudo musicplayer add yourfilename2
 - sudo musicplayer play
 
 

@@ -12,6 +12,7 @@ class MusicPlayer
 
     private:
         void add(std::string const& newFilename);
+        void addFolder(std::string const& path);
         void play();
         void play(std::string const& filename);
         void help();
