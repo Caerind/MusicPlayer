@@ -32,7 +32,7 @@ Add a song in your song list :
 
 Add all .ogg & .wav files in a folder to your song list :
 
--sudo musicplayer add folder yourfoldername
+- sudo musicplayer add folder yourfoldername
 
 
 Play a random song in your song list :
